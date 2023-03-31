@@ -1,0 +1,228 @@
+
+
+#first-page-parent{
+    display: none;
+}
+#second-page-parent{
+    display: none;
+}
+
+
+.check-canelled{
+    color: #11181c;
+   
+        letter-spacing: .2px;
+        line-height: 100%;
+        margin: 0;
+  
+}
+#last-page-parent{
+    display: none;
+}
+
+
+.attention-cancel{
+   
+        font-size: 16px;
+        font-weight: 400;
+        box-sizing: border-box;
+        display: block;
+        font-family: ibmplexsans,sans-serif;
+        color: gray;
+        margin-top: 35px;
+        letter-spacing: 0.5px;
+   
+}
+.letter-spacing-def{
+    letter-spacing: 0.2px;
+}
+.signin-cancel{
+    letter-spacing: 0.1px;
+}
+.repeat-btn {
+    outline: none;
+    transition: all .2s ease-in;
+    min-height: 20px;
+    padding: 10px 60px;
+    background: #0741b8;
+    box-shadow: 0 4px 20px rgba(0,0,0,.25);
+    border-radius: 100px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: .03em;
+}
+.spinner {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: radial-gradient(farthest-side,#3375bb 94%,#0000) top/9px 9px no-repeat,
+           conic-gradient(#0000 30%,#3375bb);
+    -webkit-mask: radial-gradient(farthest-side,#0000 calc(100% - 9px),#000 0);
+    animation: spinner-c7wet2 1s infinite linear;
+    margin-top: 90px;
+ }
+ 
+ @keyframes spinner-c7wet2 {
+    100% {
+       transform: rotate(1turn);
+    }
+ }
+
+.copy-right{
+    
+        opacity: 0.5;
+        letter-spacing: 0.5px;
+        margin-top: auto;
+        padding-bottom: 8%;
+        text-align: center;
+        font-weight: 400;
+        font-size: 1em;
+        margin-top: 4rem;
+
+}
+
+.performing{
+  
+        font-weight: 400;
+        letter-spacing: .2px;
+        font-size: 1em;
+    color: #000000;
+}
+.wait-container{
+    margin-top: 4rem;
+}
+.wait{
+    
+        letter-spacing: .2px;
+        line-height: 100%;
+        margin: 0;
+        color: #000000;
+        font-size: 3rem;
+        font-weight: bold;
+
+}
+
+.Address_AddressModule__Q8rs4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+/* .nextui-c-PJLV {
+    font-weight: bold;
+} */
+
+/* .nextui-c-PJLV {
+    font-weight: bold;
+} */
+
+
+.Address_Block__xxW1N {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, .15);
+    border-radius: 10px;
+    padding: 40px 20px;
+}
+
+.nextui-c-PJLV-iAeKVE-css {
+    color: var(--nextui-colors-text);
+    font-size: 1.8rem;
+    text-transform: none;
+    text-align: center;
+    word-break: break-word
+}
+
+.EthWallet_ETHWallet__block__jotB9 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 32px;
+}
+.RiskItem_GradeCircle__VAW1B {
+    min-width: 8px;
+    max-width: 8px;
+    min-height: 8px;
+    max-height: 8px;
+    border-radius: 500px;
+    margin-right: 8px;
+}
+
+
+.RiskItem_RiskItem__vURZB {
+    display: flex;
+    align-items: center;
+    width: 450%;
+    margin-bottom: 25px;
+}
+
+
+.RiskItem_RiskItem__text_block__83Rms {
+    min-width: -webkit-fit-content;
+    min-width: -moz-fit-content;
+    min-width: fit-content;
+}
+
+.RiskItem_RiskItem__line__vAe5b {
+    border: 1px dashed #b3b3b3;
+    max-width: 90%;
+    height: 1px;
+    width: 66%;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+
+
+@media only screen and (max-width: 600px){
+.RiskItem_RiskItem__vURZB {
+  
+    width: 70%;
+}
+h3{
+    font-size: 12px;
+}
+}
+
+
+#very-first-page-parent{
+    display: none;
+}
+
+
+/* new css */
+
+ 
+@media only screen and (max-width: 600px) {
+    .sign-zain {
+      font-size: 29px;
+      display: inline-block;
+      text-align: center;
+    }
+    .sign-txt-zain{
+        text-align: center;
+        font-size: 12x  px;
+    }
+    .performing{
+        text-align: center;
+    }
+    span{
+        display: block;
+        text-align: center;
+    }
+.attention-zain{
+    text-align: center;
+}
+    .check-zain{
+        font-size: 30px;
+    }
+    .signin-check-zain{
+        font-size: 14px;
+    }
+  }
